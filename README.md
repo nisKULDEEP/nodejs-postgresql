@@ -1,1 +1,3 @@
-Basic setup for nodejs project
+# Basic setup for nodejs project
+
+# Node.js + Express + TS + PostgreSQL + TypeORM
